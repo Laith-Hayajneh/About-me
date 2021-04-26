@@ -1,0 +1,17 @@
+
+body header h1 {text-align: center;
+color: rgb(153, 207, 27);
+background-color: rebeccapurple;
+border: solid yellowgreen;}
+
+
+p { text-align: center;
+ color: green; 
+background-color: rosybrown;
+margin: 13px;
+font-size: 30px;}
+
+img {width: 300px;
+ border-radius: 600px;
+ margin: 12px;
+}
