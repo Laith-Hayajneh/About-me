@@ -15,3 +15,19 @@ img {width: 300px;
  border-radius: 600px;
  margin: 12px;
 }
+
+li { color: brown;
+text-align: center;
+background-color: burlywood;
+ }
+
+h2 { text-align: center;
+background-color: cornflowerblue;}
+
+ol{ text-align: start;
+padding: 12px;
+;}
+footer{ text-align: center;
+background-color: rgb(29, 75, 202);
+ 
+}
