@@ -2,23 +2,29 @@
 body header h1 {text-align: center;
 color: rgb(153, 207, 27);
 background-color: rebeccapurple;
-border: solid yellowgreen;}
+border: solid yellowgreen;
+}
 
-
+header{
+    position: sticky;
+}
 p { text-align: center;
  color: green; 
 background-color: rosybrown;
 margin: 13px;
-font-size: 30px;}
+font-size: 30px;
+font-family: 'Freckle Face', cursive;}
 
 img {width: 300px;
  border-radius: 600px;
  margin: 12px;
+ 
 }
 
 li { color: brown;
 text-align: center;
 background-color: burlywood;
+font-size: larger;
  }
 
 h2 { text-align: center;
@@ -30,4 +36,15 @@ padding: 12px;
 footer{ text-align: center;
 background-color: rgb(29, 75, 202);
  
+}
+.page-holder {
+    min-height: 100vh;
+  }
+  
+  .bg-cover {
+    background-size: cover !important;
+  }
+
+  .bg-cover {
+    background-size: cover !important;
 }
